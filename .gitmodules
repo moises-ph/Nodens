@@ -1,0 +1,3 @@
+[submodule "Nodens_Backend"]
+	path = Nodens_Backend
+	url = https://github.com/moises-ph/Nodens_Backend.git
